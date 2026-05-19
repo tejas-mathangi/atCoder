@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# C/C++ build outputs
+*.o
+*.obj
+*.out
+*.exe
+*.dSYM/
+
+# Common local build directories
+build/
+cmake-build-*/
+
+# AtCoder local binaries, e.g. ABC320/a compiled from ABC320/a.cpp
+ABC*/a
+ABC*/b
+ABC*/c
+ABC*/d
+ABC*/e
+ABC*/f
+ABC*/g
+ABC*/h
+
+# Local input/output scratch files
+input.txt
+output.txt
+*.in
+*.ans
+
+# VS Code generated C/C++ cache
+.vscode/.browse.VC.db*
+.vscode/ipch/
